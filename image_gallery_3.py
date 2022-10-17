@@ -1,6 +1,5 @@
 from tkinter import *
 from PIL import Image, ImageTk
-from pyparsing import col
 
 root = Tk()
 root.title("iconbitmap may be given")
